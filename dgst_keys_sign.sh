@@ -8,26 +8,26 @@ function dgst {
 }
 
 function keysGen {
-	openssl genrsa -des3 -out ./keys/private.key.enc 2048
-	openssl rsa -in ./keys/private.key.enc -out ./keys/public.key -pubout
+	openssl genrsa -des3 -out ./keys/private.key 2048
+	openssl rsa -in ./keys/private.key -out ./keys/public.key -pubout
 }
 
 function pemToDer {
-	openssl rsa -inform PEM -outform DER -in ./keys/private.key.enc \
-		-out ./keys/private.key.der.enc
-	openssl rsa -inform PEM -outform DER -in ./keys/public.key \
-		-out ./keys/public.key.der
+	openssl rsa -inform PEM -outform DER -in ./keys/private.key \
+		-out ./keys/private.key.der
+	openssl rsa -inform PEM -outform DER -in ./keys/private.key \
+		-out ./keys/public.key.der -pubout
 }
 
 function derToPem {
-	openssl rsa -inform DER -outform PEM -in ./keys/private.key.der.enc \
-		-out ./keys/private.key.enc
-        openssl rsa -inform DER -outform PEM -in ./keys/public.key.der \
-		-out ./keys/public.key
+	openssl rsa -inform DER -outform PEM -in ./keys/private.key.der \
+		-out ./keys/private.key
+        openssl rsa -inform DER -outform PEM -in ./keys/private.key.der \
+		-out ./keys/public.key -pubout
 }
 
 function signAndVerify {
-	openssl dgst -sha256 -sign ./keys/private.key.enc \
+	openssl dgst -sha256 -sign ./keys/private.key \
 		-out ./dgst/doc.sign.txt doc.txt
 	openssl dgst -sha256 -verify ./keys/public.key \
 		-signature ./dgst/doc.sign.txt doc.txt
