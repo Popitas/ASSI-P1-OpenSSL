@@ -1,0 +1,108 @@
+Content-Type: multipart/signed;
+	boundary="Apple-Mail=_8432C2CF-B2A1-409A-AE18-95B527918C0C";
+	protocol="application/pkcs7-signature";
+	micalg=sha1
+
+
+--Apple-Mail=_8432C2CF-B2A1-409A-AE18-95B527918C0C
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_4BB8E742-3990-4469-8BF4-15C6BEFEB97B"
+
+
+--Apple-Mail=_4BB8E742-3990-4469-8BF4-15C6BEFEB97B
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=utf-8
+
+Al contrario del pensamiento popular, el texto de Lorem Ipsum no es =
+simplemente texto aleatorio. Tiene sus raices en una pieza cl=C2=B4sica =
+de la literatura del Latin, que data del a=C3=B1o 45 antes de Cristo, =
+haciendo que este adquiera mas de 2000 a=C3=B1os de antiguedad. Richard =
+McClintock, un profesor de Latin de la Universidad de Hampden-Sydney en =
+Virginia, encontr=C3=B3 una de las palabras m=C3=A1s oscuras de la =
+lengua del lat=C3=ADn, "consecteur", en un pasaje de Lorem Ipsum, y al =
+seguir leyendo distintos textos del lat=C3=ADn, descubri=C3=B3 la fuente =
+indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.33 de "de =
+Finnibus Bonorum et Malorum" (Los Extremos del Bien y El Mal) por =
+Cicero, escrito en el a=C3=B1o 45 antes de Cristo. Este libro es un =
+tratado de teor=C3=ADa de =C3=A9ticas, muy popular durante el =
+Renacimiento. La primera linea del Lorem Ipsum, "Lorem ipsum dolor sit =
+amet..", viene de una linea en la secci=C3=B3n 1.10.32=
+
+--Apple-Mail=_4BB8E742-3990-4469-8BF4-15C6BEFEB97B
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=utf-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dutf-8"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><span style=3D"font-family: 'Open Sans', Arial, sans-serif; =
+font-size: 14px; text-align: justify; background-color: rgb(255, 255, =
+255);" class=3D"">Al contrario del pensamiento popular, el texto de =
+Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una =
+pieza cl=C2=B4sica de la literatura del Latin, que data del a=C3=B1o 45 =
+antes de Cristo, haciendo que este adquiera mas de 2000 a=C3=B1os de =
+antiguedad. Richard McClintock, un profesor de Latin de la Universidad =
+de Hampden-Sydney en Virginia, encontr=C3=B3 una de las palabras m=C3=A1s =
+oscuras de la lengua del lat=C3=ADn, "consecteur", en un pasaje de Lorem =
+Ipsum, y al seguir leyendo distintos textos del lat=C3=ADn, descubri=C3=B3=
+ la fuente indudable. Lorem Ipsum viene de las secciones 1.10.32 y =
+1.10.33 de "de Finnibus Bonorum et Malorum" (Los Extremos del Bien y El =
+Mal) por Cicero, escrito en el a=C3=B1o 45 antes de Cristo. Este libro =
+es un tratado de teor=C3=ADa de =C3=A9ticas, muy popular durante el =
+Renacimiento. La primera linea del Lorem Ipsum, "Lorem ipsum dolor sit =
+amet..", viene de una linea en la secci=C3=B3n =
+1.10.32</span></body></html>=
+
+--Apple-Mail=_4BB8E742-3990-4469-8BF4-15C6BEFEB97B--
+
+--Apple-Mail=_8432C2CF-B2A1-409A-AE18-95B527918C0C
+Content-Disposition: attachment;
+	filename=smime.p7s
+Content-Type: application/pkcs7-signature;
+	name=smime.p7s
+Content-Transfer-Encoding: base64
+
+MIAGCSqGSIb3DQEHAqCAMIACAQExCzAJBgUrDgMCGgUAMIAGCSqGSIb3DQEHAQAAoIIFhzCCBYMw
+ggNroAMCAQICAxIB+jANBgkqhkiG9w0BAQsFADB5MRAwDgYDVQQKEwdSb290IENBMR4wHAYDVQQL
+ExVodHRwOi8vd3d3LmNhY2VydC5vcmcxIjAgBgNVBAMTGUNBIENlcnQgU2lnbmluZyBBdXRob3Jp
+dHkxITAfBgkqhkiG9w0BCQEWEnN1cHBvcnRAY2FjZXJ0Lm9yZzAeFw0xNjA1MDQxNDQ4NDVaFw0x
+NjEwMzExNDQ4NDVaMEMxGDAWBgNVBAMTD0NBY2VydCBXb1QgVXNlcjEnMCUGCSqGSIb3DQEJARYY
+Z2FicmllbGFlc2NyaWNoQHlhaG9vLmVzMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+wTcHwpbiUcj+0bYLVecYVrQ+2ewANDZeQTk0P8TQ1hIplLJ/iSTJjcDe3G82ly6C5I/MRySiB9Vv
+vCJkhO4y0DFsQA45tGnJRvwiRfBjeU4pGwBvZluIpHIQM+rOn1qLqz7LtOFfNMOHdRVsbfuOQrAS
+TuttxOj/ZjyVbzcL5kAsCZbTWPLHEToJWRfSpB73N04tHehB/2LwKYO5Wv6z3cMVUFqDthuKzIDs
+x7RRYcCv+nJ5355hlLVT0Cw6VK/sIabjoLgVyml6u8VbX+eCtKahDza6CwEXjujJ+MT451C+4y3y
+bJ6WZc4FBe8fN7MYRQLhH2Ickb5xxjwjPBAgNQIDAQABo4IBSDCCAUQwDAYDVR0TAQH/BAIwADBW
+BglghkgBhvhCAQ0ESRZHVG8gZ2V0IHlvdXIgb3duIGNlcnRpZmljYXRlIGZvciBGUkVFIGhlYWQg
+b3ZlciB0byBodHRwOi8vd3d3LkNBY2VydC5vcmcwDgYDVR0PAQH/BAQDAgOoMEAGA1UdJQQ5MDcG
+CCsGAQUFBwMEBggrBgEFBQcDAgYKKwYBBAGCNwoDBAYKKwYBBAGCNwoDAwYJYIZIAYb4QgQBMDIG
+CCsGAQUFBwEBBCYwJDAiBggrBgEFBQcwAYYWaHR0cDovL29jc3AuY2FjZXJ0Lm9yZzAxBgNVHR8E
+KjAoMCagJKAihiBodHRwOi8vY3JsLmNhY2VydC5vcmcvcmV2b2tlLmNybDAjBgNVHREEHDAagRhn
+YWJyaWVsYWVzY3JpY2hAeWFob28uZXMwDQYJKoZIhvcNAQELBQADggIBAJEStonNdYHLpUEskid8
++hKLxIjw7IOaeomIKssVr4/SB3hpZ0pqVIdChXfWwdkQKWKIbzbenC8U7pdSb6TuUpHyd/jAUdcn
+bD6nM6fFF5zh0C0rs/i3+YYxgxLi8PhlQC6bKPXDuzPYBEXOEBV6Axqgj4rYtnEhgWozJejCX/JA
+1JMwLg/BmlvwjIXGR9QWUJ1sFAFn9/4VyzYQGGQbOqkVwySvL43f0WX3+yXxo8WKl73xLNFvTpec
+EaekoOR7kZHFY0MnrD+nnXNhtyfnDt1nLohXlsy9jg/X9yqhw2pZoKokSw6yNNHNEGbQO130K7Bp
+xIfJUq6Yc86WCZcVzNnToDz9w53+2z/QE09pbF8zU5CYOWOYtW9zx7xX/x+LppcoFKAWyohUAYMi
+z9Vy5n1YDSiZLT/dG2Sr8AgxHh1IYPztCfb9s9X+RxXL7muTlia64HdWWNMVl9/BHdcZYXHP/Onv
+lGhFi+zmPWHrvhVgjKIfeqcdfV4+b1gftKzMwIoaWABJGkEqQ0IM0dTGVXnynRxHxVDd0+mCDjRc
+jqI8lT+eYoyI/orVh2vPVx94NIx99TwZcbxBaulUbcNhFk+mthT5KC0SKDchBQLj9sWMquwKHWrL
+2GORXSlwGd07saAMHDi+zzRQ/ZvQq8JbOI4lTf9I0J6yvasm8FCGw0x1MYIDMzCCAy8CAQEwgYAw
+eTEQMA4GA1UEChMHUm9vdCBDQTEeMBwGA1UECxMVaHR0cDovL3d3dy5jYWNlcnQub3JnMSIwIAYD
+VQQDExlDQSBDZXJ0IFNpZ25pbmcgQXV0aG9yaXR5MSEwHwYJKoZIhvcNAQkBFhJzdXBwb3J0QGNh
+Y2VydC5vcmcCAxIB+jAJBgUrDgMCGgUAoIIBhzAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwG
+CSqGSIb3DQEJBTEPFw0xNjA1MDUxNzMxMzhaMCMGCSqGSIb3DQEJBDEWBBSTBgfWRxf0mlYHuwFF
+FPH9pksE8jCBkQYJKwYBBAGCNxAEMYGDMIGAMHkxEDAOBgNVBAoTB1Jvb3QgQ0ExHjAcBgNVBAsT
+FWh0dHA6Ly93d3cuY2FjZXJ0Lm9yZzEiMCAGA1UEAxMZQ0EgQ2VydCBTaWduaW5nIEF1dGhvcml0
+eTEhMB8GCSqGSIb3DQEJARYSc3VwcG9ydEBjYWNlcnQub3JnAgMSAfowgZMGCyqGSIb3DQEJEAIL
+MYGDoIGAMHkxEDAOBgNVBAoTB1Jvb3QgQ0ExHjAcBgNVBAsTFWh0dHA6Ly93d3cuY2FjZXJ0Lm9y
+ZzEiMCAGA1UEAxMZQ0EgQ2VydCBTaWduaW5nIEF1dGhvcml0eTEhMB8GCSqGSIb3DQEJARYSc3Vw
+cG9ydEBjYWNlcnQub3JnAgMSAfowDQYJKoZIhvcNAQEBBQAEggEAI8QArklMi7nyYkgNZa9rpuIO
+vAa9b7ctP8g//GFKAL3jhGOnR7GAWpQ7cxlcu4SAf7wiGTpAPlpldmy+x0rVJ97+OpGELtLPMCL+
+Lrp+YDoD+L9l+mFHeuNfLRiMBt3MNfbD3ZtPDgKDmRKq7tXwj2rfByeOE9yS3rgy2wAWk1KHBb8V
+qSnHzL1t8IfILCwN+d061TWBM3pBlaTCu5L76QSCUC5HC+lEGPVbBY8dGaaH6AYrPUD7gj8IV7Rj
+jDYPLDi+QLkH3fOZ3te5klcioJG6H6Ne6E4R7fSCgW4OWpv6xTocM8oIN2PqJi/3OXg1j1Ne98Fc
+ebV1MqsDq5ebSgAAAAAAAA==
+--Apple-Mail=_8432C2CF-B2A1-409A-AE18-95B527918C0C--
